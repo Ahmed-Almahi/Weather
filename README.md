@@ -23,7 +23,7 @@ A beautiful, intuitive, and responsive weather application that provides current
 
 ## 🚀 Live Demo
 
-Check out the live application here: not now
+Check out the live application here: https://weathersd.netlify.app/
 
 ## 🛠️ Built With
 
