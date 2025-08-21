@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-blue-200 via-white to-yellow-100 p-4 relative w-full">
       <a
-        href="https://github.com/ahmed-almahi"
+        href="https://github.com/Ahmed-Almahi/Weather.git"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="GitHub"
